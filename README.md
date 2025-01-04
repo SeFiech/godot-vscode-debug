@@ -46,7 +46,7 @@ Automatically generates the necessary VSCode debug configurations for Godot proj
 ### From Command Line
 ```bash
 code --install-extension godot-vscode-debug-0.0.1.vsix
-
+```
 
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request at https://github.com/SeFiech/godot-vscode-debug.
