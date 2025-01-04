@@ -33,5 +33,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Security
 - None
 
-[Unreleased]: https://github.com/username/repository/compare/v0.0.1...HEAD
-[0.0.1]: https://github.com/username/repository/releases/tag/v0.0.1
+[Unreleased]: https://github.com/SeFiech/godot-vscode-debug/compare/v0.0.1...HEAD
+[0.0.1]: https://github.com/SeFiech/godot-vscode-debug/releases/tag/v0.0.1

@@ -19,7 +19,7 @@ Automatically generates the necessary VSCode debug configurations for Godot proj
 ## Installation
 
 ### From VSIX
-1. Download the `.vsix` file from the latest release
+1. Download the `.vsix` file from the latest release at https://github.com/SeFiech/godot-vscode-debug/releases
 2. In VSCode, go to Extensions (Ctrl+Shift+X)
 3. Click on the ... (More Actions) button at the top
 4. Select "Install from VSIX..."
@@ -46,3 +46,7 @@ Automatically generates the necessary VSCode debug configurations for Godot proj
 ### From Command Line
 ```bash
 code --install-extension godot-vscode-debug-0.0.1.vsix
+
+
+## Contributing
+Contributions are welcome! Please feel free to submit a Pull Request at https://github.com/SeFiech/godot-vscode-debug.
